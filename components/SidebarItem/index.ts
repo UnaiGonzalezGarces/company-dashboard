@@ -1,1 +1,1 @@
-import * from './SidebarItem';
+import * as SidebarItem from './SidebarItem';
