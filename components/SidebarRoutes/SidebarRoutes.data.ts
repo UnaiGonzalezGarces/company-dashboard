@@ -1,12 +1,4 @@
-import {
-  BarChart4,
-  Building2,
-  PanelsTopLeft,
-  Settings,
-  ShieldCheck,
-  CircleHelpIcon,
-  Calendar,
-} from 'lucide-react';
+import { BarChart4, Building2, PanelsTopLeft, Settings, ShieldCheck, CircleHelpIcon, Calendar } from 'lucide-react';
 
 export const dataGeneralSidebar = [
   {
@@ -43,11 +35,11 @@ export const dataSupportSidebar = [
   {
     icon: Settings,
     label: 'Settings',
-    href: '/settings',
+    href: '',
   },
   {
     icon: ShieldCheck,
     label: 'Security',
-    href: '/security',
+    href: '',
   },
 ];
